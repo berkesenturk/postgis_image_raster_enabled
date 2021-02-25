@@ -1,0 +1,1 @@
+# postgis_image_raster_enabled
